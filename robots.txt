@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kaiagaoqy.github.io/initiative//sitemap.xml
+Sitemap: https://data2accessibility.com/#https://kaiagaoqy.github.io/sitemap.xml

@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /team/
-title: team
+title: Team
 description: Xiong's lab
 nav: true
 nav_order: 7
@@ -27,9 +27,25 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Qingying Gao</p>
-      <p>PhD Student, Computer Science</p>
-      <p>Lions Vision Research and Rehabilitation Center</p>
-      <p>Artificial Intelligence for Engineering and Medicine Lab</p>
+      <p>PhD Student</p>
+      <p>Computer Science</p>
       <p>Johns Hopkins University</p>
       <p>qgao14ATjh.edu</p>
+  - align: left
+    image: bill.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bill Han </p>
+      <p>Undergrad Student</p>
+      <p>Computer Science</p>
+      <p>Johns Hopkins University</p>
+
+  - align: right
+    image: ishaan.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ishaan Chaturvedi</p>
+      <p>Research Assistant</p>
 ---

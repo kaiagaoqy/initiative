@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Xiong's Lab</a>
+subtitle: Xiong's Lab
 
 profile:
   align: right

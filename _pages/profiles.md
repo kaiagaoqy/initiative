@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /team/
 title: team
 description: Xiong's lab
 nav: true

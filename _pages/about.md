@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Xiong's Lab
+subtitle: Powered by Wilmer Eye Institute, Johns Hopkins University.
 
 profile:
   align: right

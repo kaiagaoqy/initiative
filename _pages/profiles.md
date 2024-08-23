@@ -12,7 +12,7 @@ profiles:
 
   - align: left
     image: yingzi.jpg
-    content: about_einstein.md
+    content: about_yingzi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Yingzi Xiong </p>
@@ -33,19 +33,27 @@ profiles:
       <p>qgao14ATjh.edu</p>
   - align: left
     image: bill.png
-    content: about_einstein.md
+    content: about_tmp.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Bill Han </p>
+      <p>Bill Han</p>
       <p>Undergrad Student</p>
       <p>Computer Science</p>
       <p>Johns Hopkins University</p>
-
   - align: right
     image: ishaan.png
-    content: about_einstein.md
+    content: about_tmp.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ishaan Chaturvedi</p>
       <p>Research Assistant</p>
+  - align: left
+    image: clara.jpg
+    content: about_tmp.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Bill Han</p>
+      <p>Undergrad Student</p>
+      <p>Computer Science</p>
+      <p>Johns Hopkins University</p>
 ---

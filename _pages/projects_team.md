@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /project/
+permalink: /projects/
 title: Projects
 description: Xiong's lab
 nav: true

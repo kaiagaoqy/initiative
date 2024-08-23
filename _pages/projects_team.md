@@ -11,8 +11,8 @@ profiles:
   # and create one content file for each profile inside _pages/
 
   - align: left
-    image: yingzi.png
-    content: proj_scene_db.md
+    image: proj_scene_db.png
+    content: about_tmp.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Vision accessibility scene database</p>
